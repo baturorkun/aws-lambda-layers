@@ -1,5 +1,5 @@
 # AWS-Lambda-Layers
-Creating AWS Lambda Layers
+Creating AWS Lambda Layers for Python
 
 # AWS Settings and Credentials
 Change file name ".env-dist" to ".env" and edit ".env" file.
