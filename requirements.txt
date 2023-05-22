@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 schedule==0.6.0
 paramiko==2.6.0
 psycopg2
